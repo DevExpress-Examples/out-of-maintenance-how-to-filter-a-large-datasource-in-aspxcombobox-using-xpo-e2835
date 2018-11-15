@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyObject.cs](./CS/App_Code/MyObject.cs) (VB: [MyObject.vb](./VB/App_Code/MyObject.vb))
+* [XpoHelper.cs](./CS/App_Code/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/App_Code/XpoHelper.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # How to filter a large datasource in ASPxComboBox using XPO
 
 
